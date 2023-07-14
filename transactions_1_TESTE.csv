@@ -5,7 +5,7 @@ time,status,count
 00h 01,denied,8
 00h 01,approved,13
 00h 02,refunded,1
-00h 02,failed,11
+00h 02,failed,0
 00h 02,denied,7
 00h 03,denied,3
 00h 03,approved,12
@@ -14,7 +14,7 @@ time,status,count
 00h 05,approved,9
 00h 06,denied,2
 00h 06,approved,9
-00h 07,failed,2
+00h 07,failed,1
 00h 07,denied,6
 00h 07,approved,11
 00h 07,approved,7
